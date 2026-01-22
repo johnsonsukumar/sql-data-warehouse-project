@@ -28,6 +28,7 @@ These insights empower stakeholders with key business metrics, enabling strategi
 ## License
 This project is licensed under the [MIT License] (LICENSE).. You are free to use, modify, and share this project with proper attribution.
 
-**##About Me**
+## About Me
+
 I am **Johnson Sukumar**, a **data analytics professional with 3 years of experience** working on real-world data analysis, SQL, and data warehousing solutions.
 This portfolio highlights end-to-end projects that demonstrate my ability to design data models, build ETL pipelines, and deliver insights for business decision-making.
